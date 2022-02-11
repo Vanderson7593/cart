@@ -1,0 +1,17 @@
+const PALETTE = {
+  GREY: '#DEDEDE',
+  GREY_DARK: '#B0ADAE',
+  BLUE: '#3B74F2',
+  GREEN: '#C7FFA6',
+  GREEN_DARK: '#3E890F',
+
+  FOREGROUND: '#FFF',
+  BACKGROUND: '#D1D8E5',
+
+  ERROR: '#F44336',
+
+  WHITE: '#FFFFFF',
+  BLACK: '#263A41',
+}
+
+export default PALETTE
