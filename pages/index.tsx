@@ -1,7 +1,7 @@
 import { Cart } from "@components";
 import type { NextPage } from "next";
 import Head from "next/head";
-import ProductsMap from "@mocks/under-ten.json";
+import ProductsMap from "@mocks/under.json";
 
 const Home: NextPage = () => {
   return (
