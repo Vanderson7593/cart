@@ -1,4 +1,4 @@
-Run on your browser - https://codeby-cart-two.vercel.app/
+Run on your browser - https://cart-two.vercel.app/
 
 ## Installation
 
